@@ -1,0 +1,6 @@
+building speaker identification system
+
+feature extraction 
+modelling
+training
+testing
